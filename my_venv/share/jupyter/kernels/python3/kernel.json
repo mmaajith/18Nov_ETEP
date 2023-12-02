@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/Dell/Documents/Python_inueron/18Nov_ETEP/my_venv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
